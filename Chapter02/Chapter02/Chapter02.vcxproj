@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="age.cpp" />
+    <ClCompile Include="apple.cpp" />
+    <ClCompile Include="apple2.cpp" />
+    <ClCompile Include="array1.cpp" />
+    <ClCompile Include="array2.cpp" />
     <ClCompile Include="bool.cpp" />
     <ClCompile Include="break.cpp" />
     <ClCompile Include="code.cpp" />
@@ -151,13 +155,17 @@
     <ClCompile Include="fruit.cpp" />
     <ClCompile Include="greater.cpp" />
     <ClCompile Include="guess_number.cpp" />
+    <ClCompile Include="gugu.cpp" />
     <ClCompile Include="larger.cpp" />
     <ClCompile Include="letters.cpp" />
     <ClCompile Include="LoopExample2.cpp" />
     <ClCompile Include="math.cpp" />
+    <ClCompile Include="mineSweeper.cpp" />
+    <ClCompile Include="range.cpp" />
     <ClCompile Include="shape_area.cpp" />
     <ClCompile Include="sum.cpp" />
     <ClCompile Include="switch.cpp" />
+    <ClCompile Include="Tic-Tac-Toe.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
