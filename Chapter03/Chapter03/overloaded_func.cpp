@@ -1,19 +1,19 @@
-ï»¿#include <iostream>
+#include <iostream>
 using namespace std;
 
-//ì •ìˆ˜ê°’ì„ ì œê³±í•˜ëŠ” í•¨ìˆ˜
+//Á¤¼ö°ªÀ» Á¦°öÇÏ´Â ÇÔ¼ö
 int square(int i) {
 
-	cout << "square(int) í˜¸ì¶œ" << endl;
+	cout << "square(int) È£Ãâ" << endl;
 	return i * i;
 }
-//ì‹¤ìˆ˜ê°’ì„ ì œê³±í•˜ëŠ” í•¨ìˆ˜
+//½Ç¼ö°ªÀ» Á¦°öÇÏ´Â ÇÔ¼ö
 int square(double i) {
 
-	cout << "square(double) í˜¸ì¶œ" << endl;
+	cout << "square(double) È£Ãâ" << endl;
 	return i * i;
 }
-int main1() {
+int main3() {
 	cout << square(10) << endl;
 	cout << square(2.0) << endl;
 	return 0;

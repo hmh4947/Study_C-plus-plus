@@ -28,7 +28,7 @@ double absolute(double i) {
 	cout << "절대값 실수 출력: " << result << endl;
 	return result;
 }
-int main2() {
+int main4() {
 	print(100);
 	print(3.14);
 	print('C');
