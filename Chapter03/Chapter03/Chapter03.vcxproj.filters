@@ -48,5 +48,11 @@
     <ClCompile Include="string5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="hamming_distance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hangman.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
