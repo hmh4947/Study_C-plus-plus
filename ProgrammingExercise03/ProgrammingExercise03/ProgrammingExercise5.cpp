@@ -1,15 +1,17 @@
 #include<iostream>
 #include<string>
 using namespace std;
-/*string sayHello(int n = 1) {
+void sayHello(int n = 1) {
 	for (int i = 0; i < n; i++) {
-		
+		cout<<" Hello";
 	}
-		
+	cout << endl;
 }
-int main() {
+int main5() {
 	int num;
-	cin >> num;
-	cout<<sayHello(num);
+	cout << "sayHello()-> ";
+	sayHello();
+	cout << "sayHello(3)-> ";
+	sayHello(3);
 	return 0;
 }

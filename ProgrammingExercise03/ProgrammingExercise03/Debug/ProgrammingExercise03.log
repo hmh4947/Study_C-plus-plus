@@ -1,2 +1,3 @@
-﻿  ProgrammingExercise5.cpp
-C:\Users\user\Documents\GitHub\Study_C-plus-plus\ProgrammingExercise03\ProgrammingExercise03\ProgrammingExercise5.cpp(9): error C4716: 'sayHello': 값을 반환해야 합니다.
+﻿  ProgrammingExercise7.cpp
+C:\three.js_repo\Study_C-plus-plus\ProgrammingExercise03\ProgrammingExercise03\ProgrammingExercise7.cpp(16,11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ProgrammingExercise03.vcxproj -> C:\three.js_repo\Study_C-plus-plus\ProgrammingExercise03\Debug\ProgrammingExercise03.exe
