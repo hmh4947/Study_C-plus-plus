@@ -3,10 +3,10 @@
 #include<map>
 using namespace std;
 
-int main12() {
+int main13() {
 	map<string, int> table;
 	string s;
-
+ 
 	cout << "문장을 입력하시오(종료는 Ctrl-z): ";
 	while (true) {
 		cin >> s;

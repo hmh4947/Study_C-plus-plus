@@ -127,17 +127,30 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binary_search.cpp" />
+    <ClCompile Include="copy.cpp" />
+    <ClCompile Include="count.cpp" />
     <ClCompile Include="deque.cpp" />
     <ClCompile Include="deque1.cpp" />
     <ClCompile Include="dic.cpp" />
+    <ClCompile Include="find.cpp" />
+    <ClCompile Include="find_if.cpp" />
+    <ClCompile Include="for_each.cpp" />
     <ClCompile Include="iterator1.cpp" />
     <ClCompile Include="iterator2.cpp" />
     <ClCompile Include="iterator3.cpp" />
+    <ClCompile Include="lambda.cpp" />
+    <ClCompile Include="lambda1.cpp" />
+    <ClCompile Include="lambda2.cpp" />
     <ClCompile Include="list1.cpp" />
     <ClCompile Include="list2.cpp" />
     <ClCompile Include="map1.cpp" />
+    <ClCompile Include="pqueue.cpp" />
+    <ClCompile Include="queue.cpp" />
     <ClCompile Include="report_check.cpp" />
     <ClCompile Include="set1.cpp" />
+    <ClCompile Include="sort.cpp" />
+    <ClCompile Include="stack.cpp" />
     <ClCompile Include="vector.cpp" />
     <ClCompile Include="word_freq.cpp" />
   </ItemGroup>
